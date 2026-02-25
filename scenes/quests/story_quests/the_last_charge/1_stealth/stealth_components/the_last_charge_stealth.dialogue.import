@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bd5gi7ojd0045"
+path="res://.godot/imported/the_last_charge_stealth.dialogue-f93884ce397343b88122e46fcc095c53.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/the_last_charge/1_stealth/stealth_components/the_last_charge_stealth.dialogue"
+dest_files=["res://.godot/imported/the_last_charge_stealth.dialogue-f93884ce397343b88122e46fcc095c53.tres"]
+
+[params]
+
+defaults=true

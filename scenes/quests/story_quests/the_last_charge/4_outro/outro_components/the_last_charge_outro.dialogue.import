@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://32f3xo80r7s8"
+path="res://.godot/imported/the_last_charge_outro.dialogue-a8c4503d72dd32c4387e7520234f06b7.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/the_last_charge/4_outro/outro_components/the_last_charge_outro.dialogue"
+dest_files=["res://.godot/imported/the_last_charge_outro.dialogue-a8c4503d72dd32c4387e7520234f06b7.tres"]
+
+[params]
+
+defaults=true

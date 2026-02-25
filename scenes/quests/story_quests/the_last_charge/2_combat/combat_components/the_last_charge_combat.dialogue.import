@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://c878ir1j05gq"
+path="res://.godot/imported/the_last_charge_combat.dialogue-b10787ce04fe7f8f1358f1564d02a3b9.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/the_last_charge/2_combat/combat_components/the_last_charge_combat.dialogue"
+dest_files=["res://.godot/imported/the_last_charge_combat.dialogue-b10787ce04fe7f8f1358f1564d02a3b9.tres"]
+
+[params]
+
+defaults=true
