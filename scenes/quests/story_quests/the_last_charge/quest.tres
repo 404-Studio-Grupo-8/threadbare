@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="Quest" format=3 uid="uid://8jcvc5t4ucki"]
+
+[ext_resource type="Script" uid="uid://dts1hwdy3phin" path="res://scenes/menus/storybook/components/quest.gd" id="1_37tmq"]
+
+[resource]
+script = ExtResource("1_37tmq")
+title = "the last charge"
+first_scene = "uid://llwad2l0f4e"
+metadata/_custom_type_script = "uid://dts1hwdy3phin"
