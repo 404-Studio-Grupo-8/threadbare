@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dd1qip2toa3ie"
+path="res://.godot/imported/the_last_charge_checkpoint.dialogue-5c35971de401e151ef1e188b0e3f4b5d.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/the_last_charge/1_stealth/stealth_components/the_last_charge_checkpoint.dialogue"
+dest_files=["res://.godot/imported/the_last_charge_checkpoint.dialogue-5c35971de401e151ef1e188b0e3f4b5d.tres"]
+
+[params]
+
+defaults=true
