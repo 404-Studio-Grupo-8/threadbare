@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dq5h1fnneneu0"
+path="res://.godot/imported/the_last_charge_collected.dialogue-3cb48fac3c4a1134b8d05c4495c93e72.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/the_last_charge/1_stealth/stealth_components/the_last_charge_collected.dialogue"
+dest_files=["res://.godot/imported/the_last_charge_collected.dialogue-3cb48fac3c4a1134b8d05c4495c93e72.tres"]
+
+[params]
+
+defaults=true
