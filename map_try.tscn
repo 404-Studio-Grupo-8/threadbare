@@ -1,0 +1,21 @@
+[gd_scene format=3 uid="uid://cqdrprh61osx8"]
+
+[ext_resource type="Texture2D" uid="uid://jiykjnwhpm50" path="res://scenes/quests/story_quests/Info_maze/test_map.tscn/pixil-frame-0.png" id="1_14ffk"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_x2roq"]
+size = Vector2(6961.9175, 6131.306)
+
+[node name="StaticBody2D" type="StaticBody2D" unique_id=945736588]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1633864948]
+position = Vector2(24, 52.999996)
+scale = Vector2(2.9728496, 2.199222)
+texture = ExtResource("1_14ffk")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1157197820]
+position = Vector2(27.499695, 1.0004578)
+scale = Vector2(4.347222, 3.3200104)
+shape = SubResource("RectangleShape2D_x2roq")
+
+[node name="Node2D" type="Node2D" parent="." unique_id=73898183]
+position = Vector2(0, 212)
